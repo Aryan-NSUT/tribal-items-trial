@@ -3,7 +3,7 @@ import Header from "./components/Layout/Header/Header";
 function App() {
   return (
     <React.Fragment>
-      <Header/>
+      <Header />
     </React.Fragment>
   );
 }
